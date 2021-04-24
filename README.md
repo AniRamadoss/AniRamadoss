@@ -1,0 +1,4 @@
+- Hi, I’m @AniRamadoss
+- I’m a sophomore at Virginia Tech pursuing a BS Computer Science Degree.
+- I’m proficient in Java and Python.
+- Personal Email: aniruthan2002@gmail.com
